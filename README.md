@@ -14,6 +14,11 @@
 - 📫 How to reach me **sayed.hanzala11@gmail.com**
 
 - ⚡ Fun fact **I like learning**
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
