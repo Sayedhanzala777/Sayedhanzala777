@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedhanzala777&label=Profile%20views&color=0e75b6&style=flat" alt="sayedhanzala777" /> </p>
 
-- 🌱 I’m currently learning **React, Vue, GSAP, Tailwind CSS, Node.js, and MongoDB**
+- 🌱 I’m currently learning **React, Vue, GSAP, , Node.js, and MongoDB**
 
 - 👯 I’m looking to collaborate on **Realworld projects,web,ml**
 
