@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedhanzala777&label=Profile%20views&color=0e75b6&style=flat" alt="sayedhanzala777" /> </p>
 
-- 🌱 I’m currently learning **React, Vue, GSAP, , Node.js, and MongoDB**
+🌱 Currently learning React, Vue, GSAP, Node.js, and MongoDB
 
-- 👯 I’m looking to collaborate on **Realworld projects,web,ml**
+🚀 On a path to become a full-stack web developer
 
-- 🤝 I’m looking for help with **improving my React and GSAP skills**
+🤖 Passionate about AI and machine learning — exploring how to integrate them into real-world web projects
 
-- 💬 Ask me about **React, Vue, GSAP, Node.js, MongoDB, and full-stack web development**
+👯 Open to collaborating on web and ML projects
 
 - 📫 How to reach me **sayed.hanzala11@gmail.com**
 
