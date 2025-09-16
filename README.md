@@ -2,8 +2,7 @@
 <h3 align="center">I’m a full-stack developer passionate about building real-world projects using Java, Python, and modern web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedhanzala777&label=Profile%20views&color=0e75b6&style=flat" alt="sayedhanzala777" /> </p>
-
-🌱 Currently learning React, Vue, GSAP, Node.js, and MongoDB
+⚒️ Building projects with React, Vue, GSAP, Node.js, and MongoDB
 
 🚀 On a path to become a full-stack web developer
 
@@ -11,6 +10,7 @@
 
 👯 Open to collaborating on web and ML projects
 
+🤝 Looking for guidance to level up my React and GSAP skills
 - 📫 How to reach me **sayed.hanzala11@gmail.com**
 
 - ⚡ Fun fact **I like learning**
